@@ -1,8 +1,8 @@
 # Week 2: Manipulating and Analysing Pixels 
 
 ## Directory Contents
-In class excersizes are in /week2_1 and /week2_2
-The task and image for week 2 can be found in /week2_task
+<p>In class excersizes are in /week2_1 and /week2_2</p> 
+<p>The task and image for week 2 can be found in /week2_task</p>
 
 ## Week 2 Task
 - Written in Processing 4.3. No special libraries required.
