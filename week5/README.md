@@ -24,7 +24,7 @@ Expierementing with webcams, dithering, and filters
 
 <p> There is also an overarching issue I was unable to solve regarding how the sketch looks while running.
   There is a continous flashing that occurs when the sketch is running, this could be due to the frequency of the lighting in the room vs the framerate of the camera.
-    Unfortunately I could fix no solution to this. </p>
+    Unfortunately I could find no solution to this. </p>
 
 <p> Also, when screeenrecording the sketch, the quality went down exponentially.  
   This could be because the graphics and camera drivers are under more load, worsened by the flashing issue. </p>
