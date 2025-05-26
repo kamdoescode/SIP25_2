@@ -4,6 +4,7 @@ void setup(){
   size(720,480);
   picture = loadImage("mountains.jpg");
   noLoop();
+  pixelDensity(1);
 }
 
 void draw(){

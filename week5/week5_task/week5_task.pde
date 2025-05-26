@@ -11,7 +11,7 @@ color colorB;
 void setup() {
   size(640, 480);
   String[] cameras = Capture.list();
-  
+  pixelDensity(1);
   if (cameras.length == 0) {
     println("There are no cameras available for capture.");
     exit();
