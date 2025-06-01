@@ -1,5 +1,6 @@
 void setup(){
   size(400,400);
+  pixelDensity(1);
 }
 
 void draw(){
