@@ -14,17 +14,17 @@
 <p> Following tutorials on 3D in Processing (https://processing.org/tutorials/p3d) I added the z parameter to the boids class to exist, move, and interact with 3D space. I chose to make the "birds" spheres for simplicity.  I also added lighting to simulate outdoors. </p>
 <p> For interaction I decided to have the system follow the mouse but be able to turn this off/on with a click of the mouse </p>
 
-# Challenges
+## Challenges
 <p>I found the particles would fade back into the -z space too easily so I set a limit in the -z direction.  Now when the particles stray far back enough, they disappear and reappear in a closer position. </p>
 <p> I wanted to use the mouse clicked to repel the particles from eachother as they clump up very quickly and you cant undo it.  I wasn't able to exactly impliment this, I tried adjusting the mouse attraction, increasing the seperation force multiplier, and reducing the cohesion multiplier but nothing seperated them as much as I'd like. I settled for turning off the mouse attraction because I thought it was the force of the mouse attraction keeping them together.</p>
 
-# Future Changes
+## Future Changes
 - I'd like to continue working on exploring particle systems and the physics of natural systems
 - For this sketch I'd like to create custom 3D primitives in a shape similar to a starling and expierement with the implementation to make it as accurate and organic as possible. I think animating the camera to get a view inside or around the murmuration would be interesting as well
 - I'm also interested in exploring Swarm Phase Transitions
 
 
-# Other References and Resources
+### Other References and Resources
 - https://natureofcode.com/particles/
 - https://birdclub.club/en-eu/pages/starling-murmuration-simulator-for-ornithology-flocking-behavior
 - https://www.siam.org/publications/siam-news/articles/simulating-the-dynamics-of-large-flocks-of-birds/
